@@ -1,0 +1,16 @@
+
+EDA FINDINGS SUMMARY
+
+1. Dataset loaded and basic inspection performed (shape, info, head).
+2. Descriptive statistics generated using describe().
+3. Missing value percentage checked per column.
+4. Distribution visualized using histograms and boxplots.
+5. Outliers detected using IQR method on math score.
+6. Outlier flag column created.
+7. Outliers handled using capping method to avoid data loss.
+8. Correlation matrix plotted to understand relationships.
+9. Cleaned dataset exported for further analysis.
+
+Conclusion:
+EDA helps understand data structure, detect outliers, and improve data quality
+before applying machine learning or business analysis.
